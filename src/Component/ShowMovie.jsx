@@ -48,7 +48,7 @@ const ShowMovie = ({ movie, onClose }) => {
             </span>
           </p>
           <Link
-            to={`/${movie.id}`}
+            to={`/movie/${movie.id}`}
             state={{ movie }} // Pass movie object as state
             onClick={onClose}
             className="inline-block mt-4 px-4 py-2 bg-blue-500 text-white text-sm font-medium rounded-md hover:bg-blue-600"
