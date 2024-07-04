@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cimaclub/static/css/main.6bb15f74.css",
+    "main.js": "/Cimaclub/static/js/main.8ceed2fe.js",
+    "index.html": "/Cimaclub/index.html",
+    "main.6bb15f74.css.map": "/Cimaclub/static/css/main.6bb15f74.css.map",
+    "main.8ceed2fe.js.map": "/Cimaclub/static/js/main.8ceed2fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb15f74.css",
+    "static/js/main.8ceed2fe.js"
+  ]
+}
